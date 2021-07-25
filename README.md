@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @1337bytes
+- 👀 I’m interested in Design Systems, back-end scaling, privacy and security
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Design Systems
+- 📫 How to reach me https://twitter.com/1337bytes
